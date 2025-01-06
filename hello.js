@@ -1,5 +1,7 @@
 const a = () => {
-    alert("hello")
+  alert("hello")
+  return 1
+  
 }
 const b = () => {
     alert("5")
@@ -7,4 +9,5 @@ const b = () => {
 }
 const c = () => {
     alert("branch-3")
+
 }
