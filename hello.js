@@ -2,5 +2,4 @@ const a=()=>{
     alert("hello")
 }
 const b=()=>{
-return 5
-}
+alert("5")}
